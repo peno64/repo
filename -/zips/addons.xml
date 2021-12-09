@@ -2,9 +2,9 @@
 <addons><addon id="repo.peno64" name="peno64 repository" version="1.0" provider-name="peno64">
     <extension point="xbmc.addon.repository" name="peno64 repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/peno64/repo.peno64/master/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/peno64/repo.peno64/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/peno64/repo.peno64/master/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/peno64/repo/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/peno64/repo/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/peno64/repo/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
